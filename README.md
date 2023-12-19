@@ -1,10 +1,6 @@
 # checkers_game
 
-This Game is created by
-
-# Ahmed Moshood
-
-a software entusiast
+This Game is created by ** Ahmed Moshood ** a software entusiast
 
 # Checkers Game in Flutter
 
